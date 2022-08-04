@@ -14,5 +14,4 @@ def add_comment(youtubevideo ,username , comment_text):
 	youtubevideo["comments"][username]=comment_text
 	return youtubevideo
 
-	print(create_youtube_video) 
 	
